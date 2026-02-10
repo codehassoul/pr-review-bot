@@ -1,4 +1,4 @@
-#AI-Assisted GitHub Pull Request Review Bot (MVP)
+# AI-Assisted GitHub Pull Request Review Bot (MVP)
 
 A minimal service that listens to GitHub Pull Request events, analyzes code changes, and posts AI-assisted review feedback without blocking developers.
 
