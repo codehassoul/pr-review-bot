@@ -1,0 +1,71 @@
+# =========================
+# Dependencies
+# =========================
+node_modules/
+
+# =========================
+# Build output
+# =========================
+dist/
+build/
+out/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Logs
+# =========================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# =========================
+# OS / Editor files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor settings
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# TypeScript
+# =========================
+*.tsbuildinfo
+
+# =========================
+# Coverage / testing
+# =========================
+coverage/
+
+# =========================
+# Temporary / cache
+# =========================
+.cache/
+.tmp/
+.temp/
+
+# =========================
+# Ngrok
+# =========================
+.ngrok2/
+ngrok.yml
+
+# =========================
+# AI / generated artifacts
+# =========================
+.ai/
+.ai-cache/
